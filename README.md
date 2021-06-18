@@ -11,7 +11,7 @@
 ## Getting Started
 
 Requirement:
-1. You have to connect to Firebase and add GoogleServices file to your project
+1. You have to connect to Firebase and add GoogleServices-Info file to your project
 2. in Firebase website open your project and go to Storage and make sure in the 'rule' you allow read and write 
  ```javaScript
  allow read, write: if true;
